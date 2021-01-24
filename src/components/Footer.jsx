@@ -38,6 +38,7 @@ function Footer(){
       <Button className={classes.mediaIcon} href="https://twitter.com/Mohamma73423080" color="primary"> <TwitterIcon className="iconF"/> </Button>
       <Button className={classes.mediaIcon} href="https://github.com/Shahin296" color="primary"> <GitHubIcon className="iconF"/> </Button>
       <Button className={classes.mediaIcon} href="https://www.linkedin.com/in/mohammad-shahin-miah-31327b204/" color="primary"><LinkedInIcon className="iconF"/></Button>
+       <p style={{opacity:"0.1", marginTop:"18px"}}>Made By Shahin</p>
         </Container>
       </div>
   )
